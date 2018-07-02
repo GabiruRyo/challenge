@@ -1,1 +1,11 @@
 [Quais tecnologias foram usadas, e como?]
+
+# IDE
+	Atom - Para manipular o codigo pela alta praticidade a familiaridade.
+	nano - Para editar os arquivos de relatorio pela rapides.
+
+# SO
+	Arch Linux.
+
+# Navegador
+	Chromium

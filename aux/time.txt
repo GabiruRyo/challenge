@@ -1,1 +1,5 @@
-XX:XX horas
+01:00 horas - Total
+
+01:00 horas - Estudando
+
+00:00 horas - Modificando Codigo

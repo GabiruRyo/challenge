@@ -1,1 +1,3 @@
 [como foi feito o projeto?]
+
+	Primeiro escolhi aprender as novas linguagens e novas ferramentas.
