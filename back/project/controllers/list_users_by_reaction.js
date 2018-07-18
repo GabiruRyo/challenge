@@ -1,5 +1,9 @@
-/*  Funcao assincrona que procura reacoes especificas em textos
- * e retorna o usuario que teve a reacao.
+/*
+ *  Funcao assincrona que procura usuarios que tiveram uma determinada reacao
+ *  'by_reaction' em posts que possuem uma string especifica 'by_text' no titulo
+ *  e em seu texto.
+ *
+ *  Retorno: array de objetos 'users'.
  */
 module.exports = async function(base, by_text, by_reaction) {
     try{
