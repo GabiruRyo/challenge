@@ -1,3 +1,5 @@
 [como foi feito o projeto?]
 
-	Primeiro escolhi aprender as novas linguagens e novas ferramentas.
+		Primeiro escolhi aprender as novas linguagens e novas ferramentas.
+	Depois de aprender o basico, comecei a fazer as alteracoes no codigo
+	do back-end. Dureante essas modificacoes, consultei foruns de programacao.
