@@ -2,4 +2,21 @@
 
 		Primeiro escolhi aprender as novas linguagens e novas ferramentas.
 	Depois de aprender o basico, comecei a fazer as alteracoes no codigo
-	do back-end. Dureante essas modificacoes, consultei foruns de programacao.
+	do back-end. Dureante essas modificacoes, consultei foruns de programacao
+	e sites de tutoriais de javascript, mongodb e mongoose. Depois de entender
+	as funcoes do mongoose, consegui terminar a parte do back-end. Utilizei uma
+	funcao 'find()' do mongoose e apliquei o 'populate()' nos objetos 'user' e
+	'text' de 'reactions'. Isso para depois poder utilizar um 'filter()' nas
+	'reactions' que filtra os textos requisitados, depois foram adicionados a
+	um array os users que estavam no resultado do filtro por uma iteracao. Como
+	o 'find()' e o 'filter()' estao fora da iteracao, ha uma boa melhora no
+	tempo de execucao.
+		Para o front-end, tambem comecei estudando as novas linguagens e as
+	novas ferramentas. Entretanto, como estava menos familirizado, demorei mais
+	tempo para entender as estruturas e a sintaxe desta parte. Depois, comecei
+	a criar a pagina parte por parte, sempre que modificava uma parte no codigo,
+	eu ja dava refresh na pagina para ver como tinha ficado. Depois de visitar
+	varios sites de tutoriais e assistir alguns videos, consegui terminar. Fiz
+	um arquivo html e um arquivo css. Simplesmente, no arquivo html, criei cada
+	estrutura em 'div's com uma certa hierarquia e especifiquei, no arquivo css,
+	o estilo desses divs e a posicao deles, principalmente nos casos de 'grid'.

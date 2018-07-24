@@ -1,5 +1,11 @@
-01:00 horas - Total
+45:00 horas - Total
 
-01:00 horas - Estudando
+# BACK
+08:00 horas - Estudando
 
-00:00 horas - Modificando Codigo
+05:00 horas - Criando/Modificando Codigo
+
+# FRONT
+18:00 horas - Estudando
+
+14:00 horas - Criando/Modificando Codigo

@@ -1,4 +1,9 @@
 [Quais foram as dificuldades?]
 
-	Tempo - Faltou tempo devido as provas e projetos do fim do semestre da graduacao.
-	Tecnologia - Tempo perdido para aprender as novas tecnologias.
+	- Tempo:  Faltou tempo devido as provas e projetos do fim do semestre da
+	graduacao, no inicio do projeto.
+	- Familiaridade:  No front end tive muita dificuldade em entender as
+	estruturas pela falta de familiaridade com o formato e a sintaxe.
+	- Organizacao:  Como isso nao fazia parte da minha rotina, tive problemas
+	com a organizacao sobre a alocacao de tempo durante as semanas para fazer o
+	projeto.

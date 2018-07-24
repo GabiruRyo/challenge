@@ -1,11 +1,13 @@
 [Quais tecnologias foram usadas, e como?]
 
+# File Manager
+	Dolphin - Programa default do KDE plasma.
+
 # IDE
 	Atom - Para manipular o codigo pela alta praticidade a familiaridade.
-	nano - Para editar os arquivos de relatorio pela rapides.
 
 # SO
 	Arch Linux.
 
 # Navegador
-	Chromium
+	Chromium - Navegador que eu pessoalmente uso.
